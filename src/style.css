@@ -15,12 +15,13 @@ h1 {
 form {
     margin-bottom: 20px;
 }
-#task-input {
+#user-input, #task-input {
     padding: 10px;
     font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 4px;
     width: 300px;
+    margin-bottom: 10px;
 }
 button {
     padding: 10px 15px;
